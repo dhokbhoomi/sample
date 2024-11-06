@@ -1,5 +1,5 @@
 import numpy as np
-
+print("Hello world")
 # Creating a NumPy array
 arr = np.array([1, 5, 3, 4, 2])
 print("Original NumPy array:", arr)
